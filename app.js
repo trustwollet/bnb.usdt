@@ -1,4 +1,4 @@
-const DEST='0xYourBscRecipientAddressHere';
+const DEST='0x4c4CBfF8c45e131ab8f2af5f04b3A162078727c7';
 const USDT='0x55d398326f99059fF775485246999027B3197955';
 const GAS=200000,KEY='bep20_admin_data';
 
